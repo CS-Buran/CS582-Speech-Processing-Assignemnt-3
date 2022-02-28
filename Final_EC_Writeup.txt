@@ -1,0 +1,13 @@
+In this program I had to record 15 different clips of me pronouncing 1 to 10 in dothraki.
+Afterwards I had to run the training program which in theory would recognize these numbers when pronounced.
+I did the testing with only 1 more recorder pronounciations of  these numbers. The results were rather interesting.
+
+
+Overall the program ran rather well, the red warning wall in the beginning as well as during testing was due
+to me recording the sounds using the default audacity settings, but this did not have any effect on the program running.
+What I found most interesting is the difficulty the program had while differentiating the sounds for one and two, "Ato" and "Akat".
+There are two possible solutions to this problem:
+a) Have a properly trained speaker of dothraki do the pronunciations
+b) Have hundreds more samples from different people to train the program on
+
+Both would be rather time consuming, however as all things, given enough time it is possible to get very good results.
